@@ -9,6 +9,7 @@ Practical, responsible AI workflows that help job seekers understand opportuniti
 | [AI Job Description Decoder](job-description-decoder.md) | Separates core requirements from preferences and connects a job seeker’s real experience to the role |
 | [AI STAR Interview Story Builder](star-interview-story-builder.md) | Turns factual experience into clear behavioral interview stories without inventing accomplishments |
 | [AI Job Search Pipeline Organizer](job-search-pipeline-organizer.md) | Organizes application updates, interview stages, follow-ups, deadlines, and next actions |
+| [AI Offer Comparison and Decision Organizer](offer-comparison-decision-organizer.md) | Compares confirmed offer terms, personal priorities, questions, and tradeoffs without selecting a winner |
 
 ## How to use these resources
 
