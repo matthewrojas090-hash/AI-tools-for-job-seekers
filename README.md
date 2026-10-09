@@ -6,6 +6,7 @@ Practical, responsible AI workflows that help job seekers understand opportuniti
 
 | Tool | What it helps with |
 |---|---|
+| [AI Networking Conversation Planner](networking-conversation-planner.md) | Prepares honest introductions, informational-conversation requests, focused questions, and learning follow-ups |
 | [AI Interview Debrief and Follow-Up Organizer](interview-debrief-follow-up-organizer.md) | Organizes post-interview notes, practice priorities, confirmed next steps, and a personal thank-you draft |
 | [AI Resume Evidence Builder](resume-evidence-builder.md) | Turns factual experience notes into targeted, defensible resume bullets without inventing accomplishments |
 | [AI Job Description Decoder](job-description-decoder.md) | Separates core requirements from preferences and connects a job seeker’s real experience to the role |
