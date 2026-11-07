@@ -6,6 +6,7 @@ Practical, responsible AI workflows that help job seekers understand opportuniti
 
 | Tool | What it helps with |
 |---|---|
+| [AI Job Search Focus Planner](job-search-focus-planner.md) | Compares opportunities against your priorities and organizes preparation within your available time |
 | [AI Interview Questions-to-Ask Planner](interview-questions-to-ask-planner.md) | Prepares focused questions about the role, expectations, and support, with two priorities and four backups |
 | [AI Portfolio Project Planner](portfolio-project-planner.md) | Plans small learning projects with synthetic data, clear scope, verification, and honest documentation of AI assistance |
 | [AI Networking Conversation Planner](networking-conversation-planner.md) | Prepares honest introductions, informational-conversation requests, focused questions, and learning follow-ups |
